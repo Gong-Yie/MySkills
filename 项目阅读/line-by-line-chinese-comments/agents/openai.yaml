@@ -1,0 +1,4 @@
+interface:
+  display_name: "逐行中文注释"
+  short_description: "为项目源码逐行补充适合初学者阅读的中文注释"
+  default_prompt: "Use $line-by-line-chinese-comments to add beginner-friendly Chinese comments to the source files in this project."
